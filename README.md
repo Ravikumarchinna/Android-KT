@@ -10,4 +10,4 @@ It is an app manifest file in which we can configure all application settings su
 **Gradle**:
 1. It handles the library, framework version, and SDK parts.
 
-Test cases 
+Test cases   
