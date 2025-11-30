@@ -1,4 +1,4 @@
-package com.example.calculation
+package com.example.androidkt
 
 import org.junit.Test
 
